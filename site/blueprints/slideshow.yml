@@ -1,0 +1,25 @@
+title: Slideshow
+
+pages:
+  template:
+    - cover-slide
+    - card-slide
+    - default-slide
+    - portfolio-slide
+  hide: true
+
+files:
+  sortable: false
+  max: null
+  hide: false
+  sanitize: true
+  fields: null
+
+fields:
+  title:
+    label: Title
+    type: title
+  mysubpagelist:
+    label: Slideshow
+    type:  subpagelist
+
