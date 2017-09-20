@@ -16,7 +16,6 @@
         $startdate = strftime("%d/%m/%Y", strtotime($project->startdate('l j F Y')));
         $enddate = strftime("%d/%m/%Y", strtotime($project->enddate('l j F Y')));
       ?>
-
       <p class="text-subtitle"><?= $startdate ?> → <?= $enddate ?></p>
       <h1 class="text-landing"><?= $project->offre() ?></h1>
       <p class="text-symbols"><?= $project->client() ?></p>
