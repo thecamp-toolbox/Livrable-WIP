@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "MarkPro";
+  src: url('../fonts/MarkPro.otf');
+}
+body {
+  font-family: MarkPro;
+}
+section {
+  background-color: white;
+}
+strong {
+  color: #44d;
+}
+h2 {
+  color: #44d;
+}
+
+@media (min-width: 1024px) {
+  section, .slide {
+      padding-top: 8rem;
+      padding-bottom: 8rem;
+  }
+}
+
+/* correction table of content background colors */
+.toc {
+  background-color: transparent;
+}
+.chapter, .toc ol>li:before {
+  background-color: white;
+}
+/* baisse taille texte sur card */
+.text-intro {
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+}
+
+figure figcaption {
+  width: 100%;
+  text-align: left;
+}
+figcaption a {
+  background: transparent !important;
+  background-image: none;
+}
+.column > img {
+  margin-bottom: 20px;
+}
+.card-50 .flex-content {
+  border-top: 2px solid #efefef;
+  border-bottom: 2px solid #efefef;
+  border-right: 2px solid #efefef;
+  border-top-right-radius: 4px; 
+  border-bottom-right-radius: 4px;
+}
+
+/* correction pour le padding au-dessus */
+.fullscreen {
+    padding: 0;
+}
+
+/* The Overlay sliding NAV */
+.burger {
+  font-size:30px;
+  cursor:pointer;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 2;
+  color: #28285b;
+}
+
+#logo-s {
+  position: fixed;
+  left: 50px;
+  top: 1px;
+}
+
+.overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */    
+    height: 100%;
+    width: 0;
+    position: fixed; /* Stay in place */
+    z-index: 10; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); /* Black fallback color */
+    background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+    position: absolute;
+    top: 30px; 
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block; /* Display block instead of inline */
+    transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay-content img {
+  max-width: 300px;
+}
+
+.overlay-content .socials>li  {
+  list-style: none;
+  display: inline-table;
+  margin-top: 30px; 
+  text-align: center;
+  margin-left: 0px;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    font-size: 60px;
+}
+
+/* My print */
+@media print {
+  @page {
+      size: A3 landscape; /* Pour pas que les trucs soient trop petits */
+      margin: 0.5cm;
+    }
+  .nav-sq, .slide-nav {
+      display: none; 
+    }
+  .size-60, .size-50 { /* Donner de la place aux trucs qui sont tous seuls */
+      padding-left: 100px;
+      padding-right: 100px;
+    }
+}
+

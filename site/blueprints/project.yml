@@ -1,0 +1,28 @@
+title: Project
+pages: 
+  template: livrable
+  hide: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  client: 
+    label: Client
+    type: text 
+    width: 1/2 
+  offre: 
+    label: Offre 
+    type: text
+    width: 1/2 
+  startdate: 
+    label: Date de début 
+    type: date
+    width: 1/2
+  enddate: 
+    label: Date de fin 
+    type: date 
+    width: 1/2
+  mysubpagelist:
+    label: Clients
+    type:  subpagelist

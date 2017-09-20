@@ -1,0 +1,12 @@
+title: Projects
+pages: 
+  template: project
+  hide: true
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Projets
+    type:  subpagelist

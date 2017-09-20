@@ -3307,13 +3307,6 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
     size: A4 landscape;
     margin: 0.5cm;
   }
-  /* Black prints faster */
-  * {
-    background: transparent !important;
-    color: black !important;
-    text-shadow: none !important;
-    filter: none !important;
-  }
   html, body, #webslides {
     width: auto !important;
     height: auto !important;

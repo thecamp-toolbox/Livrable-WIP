@@ -7,9 +7,5 @@ email: tart2000design@gmail.com
 language: en
 role: admin
 history:
-  - >
-    lectures/pour-une-industrie-optimisee-connectee-et-creative
-  - lectures/la-revolution-des-metiers
-  - lectures/imaginer-l-avenir-du-travail
-  - lectures/repondre-a-l-innovation-disruptive
-  - lectures/elaborer-une-strategie-nationale-des-competences
+  - projets/ubisoft
+  - projets

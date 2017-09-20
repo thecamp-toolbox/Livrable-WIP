@@ -24,7 +24,7 @@
     <?php echo css('assets/css/svg-icons.css') ?>
 
     <!-- Our very own CSS file -->
-    <?php echo css('assets/css/main.css') ?>
+    <?php echo css('assets/css/thecamp.css') ?>
 
     <!-- Insert social-cards snippet here when ready -->
 
