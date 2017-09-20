@@ -7,6 +7,9 @@ email: tart2000design@gmail.com
 language: en
 role: admin
 history:
+  - >
+    projets/ubisoft/livrable-atelier/citation-usbek-rica
+  - projets/ubisoft/livrable-atelier
   - projets/ubisoft/livrable-atelier/un-test
   - projets/ubisoft
   - projets

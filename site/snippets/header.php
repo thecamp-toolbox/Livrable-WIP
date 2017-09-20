@@ -20,7 +20,6 @@
     <link rel="apple-touch-icon" sizes="152x152" href="<?= $site->url() ?>/assets/images/favicons/apple-touch-icon-152x152.png?20170829" />
     <link rel="apple-touch-icon" sizes="180x180" href="<?= $site->url() ?>/assets/images/favicons/apple-touch-icon-180x180.png?20170829" />
         
-
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
 

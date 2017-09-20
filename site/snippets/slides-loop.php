@@ -13,6 +13,8 @@
     } elseif ($s->template() == 'portfolio-slide') {
       snippet('portfolio-slide', array('s' => $s));
       
+    } elseif ($s->template() == 'quote-slide') {
+      snippet('quote-slide', array('s' => $s));
     };
   };
 ?>

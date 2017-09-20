@@ -22,6 +22,10 @@ h2 {
   }
 }
 
+.bg-primary h2 {
+  color: white;
+}
+
 /* correction table of content background colors */
 .toc {
   background-color: transparent;

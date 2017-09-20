@@ -7,6 +7,7 @@
 
 <article id="webslides">  <!-- Slideshow -->
 
+  <!-- Page de ouverture générée automatiquement -->
   <section class="bg-primary aligncenter">
    <span class="background dark" style="background-image:url('<?= $site->url() ?>/assets/images/thecamp2.jpg')"></span>
     <!--.wrap = container (width: 90%) with fadein animation -->
@@ -24,6 +25,8 @@
   </section>
 
   <?php snippet('slides-loop', array('page' => $page)) ?>
+
+  <!-- Intégrer page de fin générée automatiquement --> 
 
 </article>
 
