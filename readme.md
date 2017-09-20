@@ -23,13 +23,23 @@ And also, Font Awesome
 
 ## Templates to add 
 
-- steps (process)
-- project (with link etc. for benchmark)
+- steps (process) 
+- project (with link etc. for benchmark) 
+- quote 
+- columns (or add possibility on default)
+- data 
+- schedule 
+
+# Other helpers 
+
+We can create a nice button with : 
+
+`(button: Go somewhere! link: http://link.com)`
 
 # Todo 
 
 - Make a helper for image selection (Unsplah code, uploaded or default) to be added to default and cover slides 
 - Plutôt avoir un dropdown pour choisir le genre de template qu'on veut 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
-- Better integration of Font Awesome
+- Better Font Awesome integration
 

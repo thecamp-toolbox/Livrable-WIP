@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Un test
+
+----
+
+Meta: Super thing
+
+----
+
+Description: 
+
+Awesome ! Something here about something somehting.
+
+(button: go link: http://google.com)

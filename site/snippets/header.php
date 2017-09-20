@@ -15,16 +15,16 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <!-- CSS Base -->
-    <?php echo css('assets/css/base.css') ?>
+    <?= css('assets/css/base.css') ?>
 
     <!-- CSS Colors -->
-    <?php echo css('assets/css/colors.css') ?>
+    <?= css('assets/css/colors.css') ?>
 
     <!-- Optional - CSS SVG Icons (Font Awesome) -->
-    <?php echo css('assets/css/svg-icons.css') ?>
+    <?= css('assets/css/svg-icons.css') ?>
 
     <!-- Our very own CSS file -->
-    <?php echo css('assets/css/thecamp.css') ?>
+    <?= css('assets/css/thecamp.css') ?>
 
     <!-- Insert social-cards snippet here when ready -->
 

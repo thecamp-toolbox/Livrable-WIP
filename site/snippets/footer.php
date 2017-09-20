@@ -3,7 +3,7 @@
 <!-- end main -->
 
 <!-- Required -->
-<script src="assets/js/webslides.js"></script>
+<?= js('assets/js/webslides.js') ?>
 
 <script>
  	window.ws = new WebSlides(); 
@@ -21,7 +21,7 @@
 </script>
 
 <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
-<script defer src="assets/js/svg-icons.js"></script>
+<?= js('assets/js/svg-icons.js') ?>
 
 </body>
 </html>
