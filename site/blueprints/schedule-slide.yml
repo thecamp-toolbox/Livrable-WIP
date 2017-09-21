@@ -1,0 +1,35 @@
+title: Schedule-slide
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+  starttime: 
+    label: Start time 
+    type: time 
+    width: 1/4
+  text:
+    label: Text
+    type:  textarea
+  times: 
+    label: Schedule 
+    type: structure 
+    entry: >
+      {{dur}} minutes - {{activity}}
+    fields: 
+      dur: 
+        label: Length (minutes)
+        type: number
+      activity: 
+        label: Activity 
+        type: text 
+      location: 
+        label: Location 
+        type: text 
+
+
+      
+
+       

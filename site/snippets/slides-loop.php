@@ -23,6 +23,9 @@
     } elseif ($s->template() == 'steps-slide') {
       snippet('steps-slide', array('s' => $s));
       
+    } elseif ($s->template() == 'schedule-slide') {
+      snippet('schedule-slide', array('s' => $s));
+
     };
   };
 ?>

@@ -9,6 +9,7 @@ pages:
     - quote-slide
     - data-slide
     - steps-slide
+    - schedule-slide 
   hide: true
 
 files:

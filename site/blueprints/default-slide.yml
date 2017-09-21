@@ -21,7 +21,7 @@ fields:
     label: Description
     type: textarea
   columns: 
-    label: Columns (<3)
+    label: Columns (entre 2 et 4)
     type: structure 
     fields: 
       text: 

@@ -21,6 +21,7 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 - quote 
 - data slide 
 - steps (process) slide 
+- schedule template (timetable)
 
 ## Print
 
@@ -64,6 +65,7 @@ And also, Font Awesome
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
 - Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides)
 - Better 'user' profile that allows for linking (tel info, avatar image, etc.)
+- Download of all documents on project page 
 
 ## Before going live 
 
@@ -83,7 +85,6 @@ And also, Font Awesome
 ## Templates to add 
 
 - project (with link etc. for benchmark) 
-- schedule 
 - chapter 
 - pricing 
 - full page image / gallery 

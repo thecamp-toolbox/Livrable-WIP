@@ -1,0 +1,22 @@
+Title: Jour 1
+
+----
+
+Text: 
+
+----
+
+Times: 
+
+- 
+  activity: Salut au soleil
+  location: esplanade
+  dur: "25"
+- 
+  activity: Brainstorming
+  location: super endroit dans thecamp
+  dur: "30"
+
+----
+
+Starttime: 11:00
