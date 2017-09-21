@@ -148,7 +148,7 @@ figcaption a {
       size: A3 landscape; /* Pour pas que les trucs soient trop petits */
       margin: 0.5cm;
     }
-  .nav-sq, .slide-nav {
+  .burger, .slide-nav {
       display: none; 
     }
   .size-60, .size-50 { /* Donner de la place aux trucs qui sont tous seuls */

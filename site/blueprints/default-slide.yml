@@ -20,5 +20,12 @@ fields:
   description: 
     label: Description
     type: textarea
+  columns: 
+    label: Columns (<3)
+    type: structure 
+    fields: 
+      text: 
+        label: Text
+        type: textarea 
 
 

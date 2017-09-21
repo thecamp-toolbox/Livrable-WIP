@@ -14,7 +14,7 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 
 ## Page templates 
 
-- default slide (blank background, text centered)
+- default slide (blank background, text centered, with possilbity of adding columns) 
 - cover slide (background image)
 - card slide (image on half left)
 - portfolio slide (list of items with an image for each) 
@@ -63,18 +63,26 @@ And also, Font Awesome
 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
 - Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides)
+- Better 'user' profile that allows for linking (tel info, avatar image, etc.)
 
-## future 
+## Before going live 
 
-- Better Font Awesome integration
+- do something about nav 
+- better 'project' page 
+- hide pages for people not logged-in (or protect page by password)
+
+## Future 
+
 - Add slides numbers when printed 
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
-- Text alingment ? 
+- Text alignement in blueprint  
+- Better Font Awesome integration
+- Make 'network' to dropdwon select people 
+- Check on mobile 
 
 ## Templates to add 
 
 - project (with link etc. for benchmark) 
-- columns (or add possibility on default) 
 - schedule 
 - chapter 
 - pricing 

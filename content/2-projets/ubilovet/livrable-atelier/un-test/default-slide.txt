@@ -1,0 +1,26 @@
+Prevnext: 
+
+----
+
+Title: 1. Rendre le futur plus présent
+
+----
+
+Description: À l’aide d’objets et de mises en scène adéquats, nous exagérons et provoquons les futurs pour rendre tangible l’impact sur projet de ruptures probables, plausibles, possibles. Nous nous en servons non pas pour prédire l’avenir mais pour ouvrir le débat et stimuler l’imagination créative de vos collaborateurs et décideurs.
+
+----
+
+Columns: 
+
+- 
+  text: |
+    (image: picture1.png)
+    **Visuel** Les ruptures de demain sont illustrées, scénarisées, maquettées pour que chacun puisse se représenter l’avenir le plus concrètement possible et ainsi balayer l’incertitude.
+- 
+  text: |
+    (image: picture2.png)
+    **Immersif** Le futur est joué au travers de mises en scène et de simulations pour plonger les participants dans des expériences qui masquent, temporairement, leur caractère fictionnel, et favorisent la projection.
+- 
+  text: |
+    (image: picture3.png)
+    **Stratégique** Les convictions forgées sur la base des fictions permettent d’imaginer des orientations en rupture avec les tendances communément admises, de les maquetter et les tester en temps réel.
