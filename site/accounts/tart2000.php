@@ -8,8 +8,8 @@ language: en
 role: admin
 history:
   - >
-    projets/ubisoft/livrable-atelier/citation-usbek-rica
-  - projets/ubisoft/livrable-atelier
-  - projets/ubisoft/livrable-atelier/un-test
+    projets/ubisoft/livrable-atelier/chiffres-cles
+  - projets/ubisoft/livrable-atelier/presentation-thecamp
   - projets/ubisoft
-  - projets
+  - projets/ubisoft/livrable-atelier/citation-usbek-rica
+  - projets/ubisoft/livrable-atelier

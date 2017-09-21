@@ -1,0 +1,31 @@
+Prevnext: 
+
+----
+
+Title: thecamp
+
+----
+
+Meta: 
+
+----
+
+Slideimg: thecamp4.jpg
+
+----
+
+Img: 
+
+----
+
+Description: 
+
+###Un lieu immersif pour se projeter dans le futur
+
+Thecamp a été conçu comme un lieu d’expérimentation à ciel ouvert où innovation et nouvelles technologies vivent sur le campus avec les campers.
+
+Le lieu offre des ressources exceptionnelles afin de permettre de s’immerger et de donner de l’intensité à la démarche : FabLab, VR, showroom, installations sportives innovantes, espaces de méditation, théâtre de verdure, potager expérimental, nature...
+
+Les fondateurs de thecamp ont la conviction qu’un écosystème collaboratif dédié aux projets peut apporter des solutions concrètes aux grands défis de l’humanité.
+
+(button: En savoir plus → link: http://thecamp.fr)

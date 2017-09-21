@@ -27,6 +27,32 @@
   <?php snippet('slides-loop', array('page' => $page)) ?>
 
   <!-- Intégrer page de fin générée automatiquement --> 
+  <section class="fullscreen">
+    <div class="card-50">
+      <figure>
+        <img src="<?= $site->url() ?>/assets/images/thecamp1.jpg" alt="thecamp">
+        <figcaption>
+            <svg class="fa-camera">
+              <use xlink:href="#fa-camera"></use>
+            </svg>
+            Architectes Corinne Vezzoni
+        </figcaption>
+      </figure>
+      <!-- end figure-->
+      <div class="flex-content aligncenter">
+        <h2>
+          Contact
+        </h2>
+        <p>
+          Arthur Schmitt<br>
+          <a href="mailto:arthur@thecamp.fr">arthur@thecamp.fr</a><br>
+          O7 69 70 40 84 
+        </p>
+      </div>
+      <!-- end .flex-content-->
+    </div>
+    <!-- end .card-50-->
+  </section>
 
 </article>
 

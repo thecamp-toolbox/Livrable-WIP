@@ -1,0 +1,36 @@
+title: Data-slide
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  datas: 
+    label: Data items
+    type: structure 
+    entry: >
+      {{text}}
+    fields: 
+      icon: 
+        label: Icon (Font Awesome)
+        type: text
+        width: 1/2
+      numb:
+        label: Number 
+        type: text
+        width: 1/2
+      position: 
+        label: Position
+        type: radio 
+        options: 
+          top: Text on top 
+          bottom: Text below 
+      text: 
+        label: Text 
+        type: text 
+      
+
+       

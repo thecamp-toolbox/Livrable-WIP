@@ -18,12 +18,24 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 - card slide (image on half left)
 - portfolio slide (list of items with an image for each) 
 - quote 
+- data slide 
 
 ## Other helpers 
+
+### Button 
 
 We can create a nice button with : 
 
 `(button: Go somewhere! link: http://link.com)`
+
+### Images
+
+On slides that contain images, the priority is : 
+
+- unsplash code (if there is one)
+- selection from dropdown (if there is one)
+- first alphabetical image (if there are any)
+- a default image if there are none 
 
 # Based on a mix between Kirby and Webslides
 
@@ -41,18 +53,22 @@ And also, Font Awesome
 
 # Todo 
 
-- Make a helper for image selection (Unsplah code, uploaded or default) to be added to default and cover slides 
-- Plutôt avoir un dropdown pour choisir le genre de template qu'on veut 
+## asap
+
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
+- Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides)
+
+## future 
+
 - Better Font Awesome integration
-- Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides). 
 - Add slides numbers when printed 
+- Call slideshows in slideshows (ex. thecamp presentation in livrable)
 
 ## Templates to add 
 
 - steps (process) 
 - project (with link etc. for benchmark) 
-- columns (or add possibility on default)
-- data 
+- columns (or add possibility on default) 
 - schedule 
+- full page image / gallery 
 

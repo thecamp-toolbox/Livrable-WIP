@@ -1,7 +1,9 @@
+<?php $image = makeImage($s) ?>
+
 <section class="fullscreen">
     <div class="card-50">
       <figure>
-        <img src="https://source.unsplash.com/<?= $s->img() ?>/" alt="">
+        <img src="<?= $image ?>" alt="">
         <?php if ($s->figcaption() != '') : ?>
 	        <figcaption>
 	          <a href="https://unsplash.com/@dburka" title="Daniel Burka">
@@ -15,11 +17,7 @@
       </figure>
       <!-- end figure-->
       <div class="flex-content">
-        <?php if ($s->meta() != '') : ?>
-            <p class="text-context"><?= $s->meta() ?></p>
-        <?php endif ?>
         <h2><?= $s->title() ?></h2>
-        <hr>
        	<?= $s->description()->kirbytext() ?>
       </div>
       <!-- end .flex-content-->

@@ -1,0 +1,50 @@
+Title: Chiffres clés
+
+----
+
+Text: 
+
+----
+
+Datas: 
+
+- 
+  icon: leaf
+  number: ""
+  position: top
+  text: 7 hectares de nature
+- 
+  icon: ""
+  numb: 10 000
+  position: bottom
+  text: m2 de bâtiments
+- 
+  icon: wrench
+  numb: ""
+  position: bottom
+  text: 1 fablab
+- 
+  icon: ""
+  numb: 150+
+  position: bottom
+  text: chambres
+- 
+  icon: calendar
+  numb: ""
+  position: bottom
+  text: 300+ événements /an
+- 
+  icon: ""
+  numb: '94%'
+  position: top
+  text: taux de satisfaction
+- 
+  icon: ""
+  numb: "12"
+  position: bottom
+  text: Partenaires fondateurs
+- 
+  icon: ""
+  numb: "1"
+  position: bottom
+  text: Théâtre de verdure

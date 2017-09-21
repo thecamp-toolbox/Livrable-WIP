@@ -14,6 +14,10 @@ strong {
 h2 {
   color: #44d;
 }
+h3 {
+  color: grey;
+  font-size: 2.2rem;
+}
 
 @media (min-width: 1024px) {
   section, .slide {

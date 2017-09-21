@@ -1,6 +1,7 @@
 
 <?php
   foreach ($page->children() as $s) {
+
     if ($s->template() == 'cover-slide') {
       snippet('cover-slide',array('s' => $s));
 
@@ -15,6 +16,10 @@
       
     } elseif ($s->template() == 'quote-slide') {
       snippet('quote-slide', array('s' => $s));
+
+    } elseif ($s->template() == 'data-slide') {
+      snippet('data-slide', array('s' => $s));
+      
     };
   };
 ?>

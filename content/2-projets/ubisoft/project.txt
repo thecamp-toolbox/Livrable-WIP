@@ -1,4 +1,4 @@
-Title: Ubisoft Futur
+Title: Ubilovet Futur
 
 ----
 
@@ -6,7 +6,7 @@ Text:
 
 ----
 
-Client: Ubisoft
+Client: Ubilovet
 
 ----
 
