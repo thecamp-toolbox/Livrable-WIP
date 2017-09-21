@@ -9,16 +9,22 @@ Projects > Project > livrable
 ## Elements 
 
 Text has to be entered using Markdown. 
+
 To add an image, drag and drop it in the backoffice and then 'call' it with `(image: image-name.jpg)`
 
 ## Page templates 
 
-- default slide (blank background, text in the center)
+- default slide (blank background, text centered)
 - cover slide (background image)
 - card slide (image on half left)
 - portfolio slide (list of items with an image for each) 
 - quote 
 - data slide 
+- steps (process) slide 
+
+## Print
+
+Open presentation in Chrome and use the Print > Print to PDF function 
 
 ## Other helpers 
 
@@ -63,12 +69,14 @@ And also, Font Awesome
 - Better Font Awesome integration
 - Add slides numbers when printed 
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
+- Text alingment ? 
 
 ## Templates to add 
 
-- steps (process) 
 - project (with link etc. for benchmark) 
 - columns (or add possibility on default) 
 - schedule 
+- chapter 
+- pricing 
 - full page image / gallery 
 

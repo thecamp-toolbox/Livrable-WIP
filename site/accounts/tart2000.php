@@ -8,8 +8,8 @@ language: en
 role: admin
 history:
   - >
-    projets/ubisoft/livrable-atelier/chiffres-cles
+    projets/ubisoft/livrable-atelier/une-approche-en-3-phases
+  - projets/ubisoft/livrable-atelier/chiffres-cles
   - projets/ubisoft/livrable-atelier/presentation-thecamp
   - projets/ubisoft
   - projets/ubisoft/livrable-atelier/citation-usbek-rica
-  - projets/ubisoft/livrable-atelier

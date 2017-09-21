@@ -19,6 +19,9 @@
 
     } elseif ($s->template() == 'data-slide') {
       snippet('data-slide', array('s' => $s));
+
+    } elseif ($s->template() == 'steps-slide') {
+      snippet('steps-slide', array('s' => $s));
       
     };
   };

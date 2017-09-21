@@ -8,6 +8,7 @@ pages:
     - portfolio-slide
     - quote-slide
     - data-slide 
+    - steps-slide
   hide: true
 
 files:
