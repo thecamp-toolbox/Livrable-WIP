@@ -26,6 +26,9 @@
     } elseif ($s->template() == 'schedule-slide') {
       snippet('schedule-slide', array('s' => $s));
 
+    } elseif ($s->template() == 'images-slide') {
+      snippet('images-slide', array('s' => $s));
+
     };
   };
 ?>

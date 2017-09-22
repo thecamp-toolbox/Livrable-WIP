@@ -1,6 +1,24 @@
 <?php snippet('header') ?>
 
+<?php date_default_timezone_set('UTC'); ?>
+<?php setlocale(LC_TIME, "fr_FR", ""); ?>
+
 <article>
+
+	<section class="bg-primary aligncenter">
+		<span class="background dark" style="background-image:url('<?= $site->url() ?>/assets/images/thecamp2.jpg')"></span>
+	    <!--.wrap = container (width: 90%) with fadein animation -->
+	    <div class="wrap">
+	      <!-- conversion des dates en texte compréhensible -->
+	      <?php 
+	        $startdate = strftime("%d/%m/%Y", strtotime($page->startdate('l j F Y')));
+	        $enddate = strftime("%d/%m/%Y", strtotime($page->enddate('l j F Y')));
+	      ?>
+	      <p class="text-subtitle"><?= $startdate ?> → <?= $enddate ?></p>
+	      <h1 class="text-landing"><?= $page->offre() ?></h1>
+	      <p class="text-symbols"><?= $page->client() ?></p>
+	    </div>
+	</section>
 
 	<section>
 		<div class="wrap size-50">

@@ -1,6 +1,8 @@
 title: Project
 pages: 
-  template: livrable
+  template: 
+    - livrable
+    - slideshow 
   hide: true
 files: true
 fields:
@@ -24,5 +26,5 @@ fields:
     type: date 
     width: 1/2
   mysubpagelist:
-    label: Clients
+    label: Docs
     type:  subpagelist

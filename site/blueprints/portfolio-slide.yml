@@ -38,4 +38,7 @@ fields:
       theurl:
         label: Link
         type: URL  
+      text: 
+        label: Text 
+        type: text 
 

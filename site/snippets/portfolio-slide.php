@@ -1,4 +1,4 @@
-<section class="aligncenter">
+<section class="">
     <div class="wrap">
 
       <h2><?= $s->title() ?></h2>
@@ -11,9 +11,10 @@
             <li>
               <a href="<?= $item->theurl() ?>">
                 <figure>
-                  <img src="<?= $s->image($item->img())->url() ?>">
+                  <?= $item->img()->toFile() ?>
                   <figcaption>
                     <h2><?= $item->title() ?></h2>
+                    <p><?= $item->text() ?></p>
                   </figcaption>
                 </figure>
               </a>

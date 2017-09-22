@@ -1,5 +1,7 @@
 The idea : make nice presentation online with a little back-office. Also unite all the different items that have to be generated for projects (proposition, brief, livrable, etc.). 
 
+Tested on http://doc.thecamp.fr 
+
 # How-to
 
 ## Structure 
@@ -21,7 +23,7 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 - quote 
 - data slide 
 - steps (process) slide 
-- schedule template (timetable)
+- schedule template (timetable) 
 
 ## Print
 
@@ -64,28 +66,31 @@ And also, Font Awesome
 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
 - Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides)
-- Better 'user' profile that allows for linking (tel info, avatar image, etc.)
 - Download of all documents on project page 
+- add better font management for strong 
 
 ## Before going live 
 
 - do something about nav 
 - better 'project' page 
 - hide pages for people not logged-in (or protect page by password)
+- Check on mobile 
 
 ## Future 
 
-- Add slides numbers when printed 
+- Add slides numbers when printed (pass variable through all snipets)
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
 - Text alignement in blueprint  
 - Better Font Awesome integration
 - Make 'network' to dropdwon select people 
-- Check on mobile 
+- Better 'user' profile that allows for linking (tel info, avatar image, etc.)
+- slide thecamp map (?) 
 
 ## Templates to add 
 
 - project (with link etc. for benchmark) 
 - chapter 
 - pricing 
-- full page image / gallery 
+- full page image
+- participants (no need for picture) 
 

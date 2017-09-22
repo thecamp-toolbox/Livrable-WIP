@@ -16,6 +16,10 @@ Times:
   activity: Brainstorming
   location: super endroit dans thecamp
   dur: "30"
+- 
+  activity: lever de drapeau
+  dur: "90"
+  location: Super duper salle de studio
 
 ----
 

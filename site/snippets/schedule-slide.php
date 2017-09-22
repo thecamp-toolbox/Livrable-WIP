@@ -18,7 +18,7 @@
     		<?php $starttime = date('H:i',strtotime($time)) ?>
     		<?php $endtime = date('H:i',strtotime('+'.$dur.' minutes',strtotime($time))); ?>
     		<li>
-    			<a href="#" rel="external">
+    			<a href="#" class="<?php e($t->format() == 'grey','off') ?>">
           			<p class="time"><span><?php echo $starttime.' → '.$endtime ?></span></p>
           			<p class="activity"><span><?= $t->activity() ?></span></p>
           			<p class="location"><span><?= $t->location() ?></span></p>

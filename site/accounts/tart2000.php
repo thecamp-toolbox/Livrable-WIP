@@ -7,5 +7,9 @@ email: tart2000design@gmail.com
 language: en
 role: admin
 history:
-  - projets/ubilovet/livrable-atelier/jour-1
-  - projets/ubilovet/livrable-atelier/un-test
+  - >
+    projets/pioneers/livrable-pioneers/arrivee
+  - projets/pioneers/informations/pioneers-intriduction
+  - projets/pioneers/informations/equipe-support
+  - projets/pioneers
+  - projets/pioneers/livrable-pioneers

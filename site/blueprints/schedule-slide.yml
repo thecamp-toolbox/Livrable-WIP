@@ -19,15 +19,23 @@ fields:
     entry: >
       {{dur}} minutes - {{activity}}
     fields: 
-      dur: 
-        label: Length (minutes)
-        type: number
       activity: 
         label: Activity 
         type: text 
+      dur: 
+        label: Length (minutes)
+        type: number
+        width: 1/2 
       location: 
         label: Location 
         type: text 
+        width: 1/2 
+      format: 
+        label: Format 
+        type: radio 
+        options: 
+          ok: Normal 
+          grey: Grey 
 
 
       

@@ -10,6 +10,7 @@ pages:
     - data-slide
     - steps-slide
     - schedule-slide 
+    - images-slide
   hide: true
 
 files:

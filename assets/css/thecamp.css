@@ -1,6 +1,12 @@
 @font-face {
   font-family: "MarkPro";
+  font-weight: normal;
   src: url('../fonts/MarkPro.otf');
+}
+@font-face {
+  font-family: "MarkPro";
+  font-weight: bold;
+  src: url('../fonts/MarkPro-Bold.otf');
 }
 body {
   font-family: MarkPro;
@@ -10,6 +16,7 @@ section {
 }
 strong {
   color: #44d;
+  font-weight: bold;
 }
 h2 {
   color: #44d;
@@ -26,7 +33,7 @@ h3 {
   }
 }
 
-.bg-primary h2 {
+.bg-primary h2, .bg-gradient-v h2 {
   color: white;
 }
 
@@ -64,9 +71,22 @@ figcaption a {
 
 /* correction pour la schedule */
 .work li:nth-child(odd)>a {
-    background-color: transparent; 
+  background-color: transparent; 
 }
-
+.work li a {
+  padding-top: 1.2rem; 
+  padding-bottom: 1.2rem;
+}
+.work li a:hover {
+  background-color: rgba(0, 20, 80, 0.03);
+}
+/* Correction pour mettre des parties de l'agenda moins importantes */
+.work .off {
+  background-color: rgba(0, 20, 80, 0.03) !important;
+}
+.grid-item {
+  margin: 5px;
+}
 /* correction pour le padding au-dessus */
 .fullscreen {
     padding: 0;

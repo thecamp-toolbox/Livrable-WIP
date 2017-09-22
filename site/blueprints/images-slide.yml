@@ -1,0 +1,21 @@
+title: Images-slide
+
+pages: false
+
+files:
+  sortable: true
+  max: null
+  hide: false
+  sanitize: true
+  fields: null
+  size: 2000000
+  width: 4000
+  height: 4000
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type: title
+
+

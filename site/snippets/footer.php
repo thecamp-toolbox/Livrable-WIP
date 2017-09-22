@@ -17,7 +17,6 @@
 	function closeNav() {
 	    document.getElementById("myNav").style.width = "0%";
 	}
-
 </script>
 
 <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
