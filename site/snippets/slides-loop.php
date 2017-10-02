@@ -29,6 +29,9 @@
     } elseif ($s->template() == 'images-slide') {
       snippet('images-slide', array('s' => $s));
 
+    } elseif ($s->template() == 'long-list-slide') {
+      snippet('long-list-slide', array('s' => $s));
+
     };
   };
 ?>

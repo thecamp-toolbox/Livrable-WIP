@@ -2,7 +2,6 @@
 <section>
   <div class="wrap">
     <h2><?= $s->title() ?></h2>
-    <?= $s->text()->kirbytext() ?>
 
     <ul class="work">
     	<?php $start = $s->starttime(); ?>

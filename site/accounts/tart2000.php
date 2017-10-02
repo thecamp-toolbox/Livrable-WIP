@@ -8,8 +8,8 @@ language: en
 role: admin
 history:
   - >
-    projets/pioneers/livrable-pioneers/arrivee
+    projets/ubilovet/informations-techniques/participants
+  - projets/ubilovet/informations-techniques/equipe-support
+  - projets/pioneers/livrable-pioneers/arrivee
   - projets/pioneers/informations/pioneers-intriduction
   - projets/pioneers/informations/equipe-support
-  - projets/pioneers
-  - projets/pioneers/livrable-pioneers

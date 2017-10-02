@@ -11,6 +11,7 @@ pages:
     - steps-slide
     - schedule-slide
     - images-slide
+    - long-list-slide
   hide: true
 
 files:

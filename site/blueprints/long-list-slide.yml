@@ -1,0 +1,24 @@
+title: Long-list-slide
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  people: 
+    label: List 
+    type: structure 
+    entry: >
+      {{name}}
+    fields: 
+      name: 
+        label: Name
+        type: text 
+      text: 
+        label: Text
+        type: text 
+
+
+      
+
+       

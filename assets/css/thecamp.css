@@ -78,11 +78,11 @@ figcaption a {
   padding-bottom: 1.2rem;
 }
 .work li a:hover {
-  background-color: rgba(0, 20, 80, 0.03);
+    
 }
 /* Correction pour mettre des parties de l'agenda moins importantes */
 .work .off {
-  background-color: rgba(0, 20, 80, 0.03) !important;
+  color: #c1c1c1;
 }
 .grid-item {
   margin: 5px;

@@ -24,6 +24,7 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 - data slide 
 - steps (process) slide 
 - schedule template (timetable) 
+- long list (for participants)
 
 ## Print
 
@@ -65,9 +66,8 @@ And also, Font Awesome
 ## asap
 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
-- Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides)
+- Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides) (cf. long-list)
 - Download of all documents on project page 
-- add better font management for strong 
 
 ## Before going live 
 
@@ -84,6 +84,7 @@ And also, Font Awesome
 - Better Font Awesome integration
 - Make 'network' to dropdwon select people 
 - Better 'user' profile that allows for linking (tel info, avatar image, etc.)
+- Better images gallery slide 
 - slide thecamp map (?) 
 
 ## Templates to add 
@@ -91,6 +92,5 @@ And also, Font Awesome
 - project (with link etc. for benchmark) 
 - chapter 
 - pricing 
-- full page image
-- participants (no need for picture) 
+- full page image 
 

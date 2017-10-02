@@ -10,9 +10,6 @@ fields:
     label: Start time 
     type: time 
     width: 1/4
-  text:
-    label: Text
-    type:  textarea
   times: 
     label: Schedule 
     type: structure 

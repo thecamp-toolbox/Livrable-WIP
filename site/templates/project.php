@@ -17,6 +17,10 @@
 	      <p class="text-subtitle"><?= $startdate ?> → <?= $enddate ?></p>
 	      <h1 class="text-landing"><?= $page->offre() ?></h1>
 	      <p class="text-symbols"><?= $page->client() ?></p>
+	      <p>Page projet</p>
+	      <svg class="fa-caret-down fa-4x">
+            <use xlink:href="#fa-caret-down"></use>
+        </svg>
 	    </div>
 	</section>
 
@@ -35,7 +39,9 @@
 		</div>
 	</section>
 
-	<!-- Un jour avoir le profil de la personne qui fait le contact -->
+	<!-- Fichiers en téléchargement --> 
+
+	<!-- Un jour avoir le profil de la personne qui fait le contact --> 
 
 </article>
 
