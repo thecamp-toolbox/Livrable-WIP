@@ -68,6 +68,8 @@ And also, Font Awesome
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
 - Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides) (cf. long-list)
 - Download of all documents on project page 
+- Checker player vidéo 
+- Checker téléchargement de docs 
 
 ## Before going live 
 
@@ -75,6 +77,7 @@ And also, Font Awesome
 - better 'project' page 
 - hide pages for people not logged-in (or protect page by password)
 - Check on mobile 
+- prevent people from navigating to home or project list 
 
 ## Future 
 

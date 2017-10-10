@@ -1,5 +1,5 @@
 <?php 
-  $people = $s->people()->toStructure();
+  $people = $s->people()->toStructure()->sortBy('name'); 
   $count = $people->count(); 
   $batch = 16;
   $div = floor($count/$batch); 
