@@ -26,5 +26,5 @@ fields:
     type: date 
     width: 1/2
   mysubpagelist:
-    label: Docs
+    label: Slideshows 
     type:  subpagelist

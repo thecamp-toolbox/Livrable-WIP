@@ -10,11 +10,13 @@
 	    <!--.wrap = container (width: 90%) with fadein animation -->
 	    <div class="wrap">
 	      <!-- conversion des dates en texte compréhensible -->
-	      <?php 
-	        $startdate = strftime("%d/%m/%Y", strtotime($page->startdate('l j F Y')));
-	        $enddate = strftime("%d/%m/%Y", strtotime($page->enddate('l j F Y')));
-	      ?>
-	      <p class="text-subtitle"><?= $startdate ?> → <?= $enddate ?></p>
+	      <?php if ($page->startdate() != '' && $page->enddate() != '') : ?>
+		      <?php 
+		        $startdate = strftime("%d/%m/%Y", strtotime($page->startdate('l j F Y')));
+		        $enddate = strftime("%d/%m/%Y", strtotime($page->enddate('l j F Y')));
+		      ?>
+		      <p class="text-subtitle"><?= $startdate ?> → <?= $enddate ?></p>
+		  <?php endif ?>
 	      <h1 class="text-landing"><?= $page->offre() ?></h1>
 	      <p class="text-symbols"><?= $page->client() ?></p>
 	      <p>Page projet</p>

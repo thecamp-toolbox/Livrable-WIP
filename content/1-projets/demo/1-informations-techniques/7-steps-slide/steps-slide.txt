@@ -1,0 +1,28 @@
+Title: Steps-slide
+
+----
+
+Text: Marche bien avec 3 ou 4 étapes max.
+
+----
+
+Steps: 
+
+- 
+  icon: binoculars
+  title: 01. Immersion
+  text: |
+    *Faire l’expérience du futur*
+    Recenser les imaginaires et les thèmes de changement prioritaires pour demain.
+- 
+  icon: magic
+  title: 02. Fiction now
+  text: |
+    *Maquetter les ruptures de demain*
+    Sortir du conformisme des représentations actuelles et dégager une vision à 15 ans.
+- 
+  icon: wrench
+  title: 03. Go live !
+  text: |
+    *Passer à l’action*
+    Maquetter le futur, décider des éléments à implémenter et s’engager dans la mise en œuvre.

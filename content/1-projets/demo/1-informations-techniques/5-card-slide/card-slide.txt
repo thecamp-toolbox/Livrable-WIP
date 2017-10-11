@@ -1,0 +1,21 @@
+Prevnext: 
+
+----
+
+Title: Card-slide
+
+----
+
+Img: 
+
+----
+
+Slideimg: 
+
+----
+
+Description: 
+
+Images can be uploaded or you can just use an (link: http://unsplash.com text: Unsplash) code. 
+
+Transformer vos salariés en entrepreneurs. 2 semaines d'idéation en ligne. 3 jours d'atelier avec 20 experts externes 1 évènement final mettant en lumière les meilleurs innovateurs.

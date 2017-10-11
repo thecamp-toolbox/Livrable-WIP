@@ -1,0 +1,36 @@
+Prevnext: 
+
+----
+
+Title: Équipe support
+
+----
+
+Description: 
+
+----
+
+Items: 
+
+- 
+  title: Marina Rachline
+  img: marina_rachline.jpg
+  theurl: https://fr.linkedin.com/in/alohaerial
+  text: 'Grands Challenges - thecamp'
+- 
+  title: Pierrick Rousset Rivière
+  img: pierrick_rousset-riviere.jpg
+  theurl: >
+    https://fr.linkedin.com/in/pierrickroussetrouviere
+  text: 'Grands Challenges - thecamp'
+- 
+  title: Rémi Sabouraud
+  img: remi_sabouraud.jpg
+  theurl: https://fr.linkedin.com/in/remisabouraud
+  text: 'Facilitateur - Codesign-it'
+- 
+  title: Victor Wright
+  img: victor.png
+  theurl: >
+    https://fr.linkedin.com/in/victor-wright-77802910a
+  text: Ouishare

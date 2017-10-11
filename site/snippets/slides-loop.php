@@ -32,6 +32,9 @@
     } elseif ($s->template() == 'long-list-slide') {
       snippet('long-list-slide', array('s' => $s));
 
+    } elseif ($s->template() == 'chapter-slide') {
+      snippet('chapter-slide', array('s' => $s));
+
     };
   };
 ?>

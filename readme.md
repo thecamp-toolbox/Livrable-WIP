@@ -6,7 +6,7 @@ Tested on http://doc.thecamp.fr
 
 ## Structure 
 
-Projects > Project > livrable  
+Projects > Project > Slideshow / livrable 
 
 ## Elements 
 
@@ -25,6 +25,7 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 - steps (process) slide 
 - schedule template (timetable) 
 - long list (for participants)
+- chapter slide 
 
 ## Print
 
@@ -47,7 +48,7 @@ On slides that contain images, the priority is :
 - first alphabetical image (if there are any)
 - a default image if there are none 
 
-# Based on a mix between Kirby and Webslides
+## Based on a mix between Kirby and Webslides
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
@@ -65,22 +66,20 @@ And also, Font Awesome
 
 ## asap
 
-- Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents
-- Find a way to limit number of items on portfolio slide to 8 and distribute on any number of slides (ex. 15 items => 2 slides) (cf. long-list)
+- Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images. 
+- Find a way to limit number of items on portfolio slide (and images) to 8 and distribute on any number of slides (ex. 15 items => 2 slides) (cf. long-list)
 - Download of all documents on project page 
 - Checker player vidéo 
-- Checker téléchargement de docs 
 
 ## Before going live 
 
-- do something about nav 
 - better 'project' page 
-- hide pages for people not logged-in (or protect page by password)
 - Check on mobile 
-- prevent people from navigating to home or project list 
+- Make demo presentation (with titles using slide titles)
 
 ## Future 
 
+- Make nice little how-to with images of slides 
 - Add slides numbers when printed (pass variable through all snipets)
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
 - Text alignement in blueprint  
@@ -89,11 +88,20 @@ And also, Font Awesome
 - Better 'user' profile that allows for linking (tel info, avatar image, etc.)
 - Better images gallery slide 
 - slide thecamp map (?) 
+- push notifications to the client when somthing is added to their page   
+- fullscreen video goes weird on print to PDF 
+- add page snippet next to page name in backoffice list 
+- create special user type that only accesses his program and make sure pages are hidden for other users. Also, point users directly to their program when they login through dedicated page.  
+- make better slide loop that automatically goes through slide templates and passes right variables
+- better image management, so you don't have to resize images when you upload them
 
 ## Templates to add 
 
-- project (with link etc. for benchmark) 
-- chapter 
+- subproject (or change project to program?) 
+- logos 
+- creator (person with bio and possibly, dropdown to select from user list) 
+- full page image ? 
 - pricing 
-- full page image 
+- project (with link etc. for benchmark) 
+
 

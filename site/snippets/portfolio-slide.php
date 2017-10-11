@@ -11,7 +11,10 @@
             <li>
               <a href="<?= $item->theurl() ?>">
                 <figure>
-                  <?= $item->img()->toFile() ?>
+                  <?php if ($item->img() != '') : ?>
+                    <?php $theimg = $item->img()->toFile() ?>
+                    <?= $theimg->crop(400,300) ?>
+                  <?php endif ?>
                   <figcaption>
                     <h2><?= $item->title() ?></h2>
                     <p><?= $item->text() ?></p>

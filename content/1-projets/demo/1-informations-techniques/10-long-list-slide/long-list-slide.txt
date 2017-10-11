@@ -1,0 +1,79 @@
+Title: Long-list-slide
+
+----
+
+Text: 
+
+----
+
+People: 
+
+- 
+  name: Jean-Michel Bourret
+  text: CEO
+- 
+  name: Philippe Gros
+  text: Supersize
+- 
+  name: Micheline Albotl
+  text: very yes
+- 
+  name: Albort Flickez
+  text: Nearly
+- 
+  name: Flater Bilout
+  text: Designer of things
+- 
+  name: Rickety Rick
+  text: Salbout
+- 
+  name: Alpha Torque
+  text: Sizon
+- 
+  name: Allister Poulting
+  text: Shawan
+- 
+  name: Robin Chase
+  text: Calwin regolt flint
+- 
+  name: Chapourte Virbent
+  text: Superbe
+- 
+  name: Ragoon Filpert
+  text: Almighty
+- 
+  name: Fablabla Bunterfickleground
+  text: Something too long ?
+- 
+  name: Brounter Milfurth
+  text: Casual
+- 
+  name: Mirburt Wintonic
+  text: Another supername
+- 
+  name: Alfrout Gribount
+  text: Zamering
+- 
+  name: Grospiert Bunter
+  text: Fragt
+- 
+  name: Kilbert Craput
+  text: Pragan
+- 
+  name: Gruiterbint Balgurt
+  text: Flinter
+- 
+  name: Pourdent Dragun
+  text: Designer
+- 
+  name: Carole Dergunt
+  text: Pourridge
+- 
+  name: Limaille Barfont
+  text: Carl
+- 
+  name: Briscaille Tummel
+  text: Galop
+- 
+  name: Charlotte Pominterque
+  text: Chalutier

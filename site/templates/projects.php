@@ -18,7 +18,7 @@
 			<?php if ($site->user()) : ?>
 				<hr>
 				<ul class="description">
-					<h2>Projects cachés</h2>
+					<h2>Projets cachés</h2>
 					<?php foreach ($page->children()->invisible() as $p) : ?>
 						<li>
 							<a href="<?= $p->url() ?>" >

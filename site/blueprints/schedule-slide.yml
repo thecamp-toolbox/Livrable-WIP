@@ -2,6 +2,7 @@ title: Schedule-slide
 pages: false
 files: true
 fields:
+  prevnext: prevnext
   title:
     label: Title
     type:  text

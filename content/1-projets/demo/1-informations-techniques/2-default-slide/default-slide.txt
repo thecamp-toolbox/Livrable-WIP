@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Default-slide
+
+----
+
+Description: 
+
+Default slides can also have images and columns. 
+
+Blablabla Suivre vos relations avec les start up. Mettre en vitrine des projets innovants. Partager une base interne qualifiée. Centraliser vos bonne pratiques et vos écosystèmes d'innovation: Notre logiciel SURM (Start up Relationship Management)
+
+----
+
+Columns: 
+
+- 
+  text: Column1
+- 
+  text: Column2
+- 
+  text: Column3

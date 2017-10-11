@@ -12,6 +12,7 @@ pages:
     - schedule-slide 
     - images-slide
     - long-list-slide
+    - chapter-slide
   hide: true
 
 files:
