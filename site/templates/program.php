@@ -27,23 +27,20 @@
 	    </div>
 	</section>
 
+	<!-- Main presentations and downloads -->
 	<section>
 		<div class="wrap">
 		<h1><?php echo $page->title()->html() ?></h1>
 			<div class="grid ms">
 				<div class="column">
-					<?php $children = $page->children()->visible() ?>
+					<?php $children = $page->children()->filterBy('template','slideshow')->visible() ?>
 					<?php if ($children != '') : ?> 
-						<h3>Documents</h3>
-						<?php foreach ($children as $p) : ?>
-							<strong><?= $p->title() ?></strong>
-							<a href="<?= $p->url() ?>" class="button" target="_blank">  
-								<svg class="fa-eye">
-						            <use xlink:href="#fa-eye"></use>
-						        </svg>
-						        Voir
-							</a><br>
-						<?php endforeach ?>
+						<h3>Productions</h3>
+						<ul class="flexblock plans">
+							<?php foreach ($children as $p) : ?>
+								<?php snippet('slideshow-card',array('prez'=>$p)) ?>
+							<?php endforeach ?>
+						</ul>
 					<?php endif ?>
 				</div>
 				<div class="column">
@@ -71,6 +68,73 @@
 			</div>
 		</section>
 	<?php endforeach ?>
+
+	<section>
+		<div class="wrap">
+    <ul class="flexblock plans">
+      <li>
+        <a href="#" title="Register">
+          <h2>PRESENTATION</h2>
+          <div>
+            <span class="price">Free</span>
+            <ul>
+              <li>
+                <svg class="fa-check">
+                  <use xlink:href="#fa-check"></use>
+                </svg>
+                <strong>Free</strong> forever
+              </li>
+              <li>
+                <svg class="fa-check">
+                  <use xlink:href="#fa-check"></use>
+                </svg>
+                <strong>Eternal</strong> sunshine
+              </li>
+              <li>
+                <svg class="fa-check">
+                  <use xlink:href="#fa-check"></use>
+                </svg>
+                <strong>Ads</strong>
+              </li>
+            </ul>
+            <span class="button ghost">Select</span>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a href="#" title="Purchase">
+          <h2>Good Karma</h2>
+          <div>
+            <span class="price"><sup>$</sup>40 <sup>/year</sup></span>
+            <ul>
+              <li>
+                <svg class="fa-check">
+                  <use xlink:href="#fa-check"></use>
+                </svg>
+                <strong>Exclusive</strong> content
+              </li>
+              <li>
+                <svg class="fa-check">
+                  <use xlink:href="#fa-check"></use>
+                </svg>
+                <strong>Unlimited</strong> projects
+              </li>
+              <li>
+                <svg class="fa-check">
+                  <use xlink:href="#fa-check"></use>
+                </svg>
+                <strong>Unlimited</strong> users
+              </li>
+            </ul>
+            <span class="button">Select</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <!-- .end .wrap -->
+
+	</section>
 
 	<!-- Un jour avoir le profil de la personne qui fait le contact --> 
 

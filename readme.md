@@ -67,7 +67,6 @@ And also, Font Awesome
 
 ## asap
 
-- Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images. 
 - Find a way to limit number of items on portfolio slide (and images) to 8 and distribute on any number of slides (ex. 15 items => 2 slides) (cf. long-list)
 - Download of all documents on project page 
 - Checker player vidéo 
@@ -76,11 +75,12 @@ And also, Font Awesome
 
 - better 'program' page 
 - Check on mobile 
-- Make demo presentation (with titles using slide titles)
+- Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images. 
 
 ## Future 
 
 - Make nice little how-to with images of slides 
+- table of content auto 
 - Add slides numbers when printed (pass variable through all snipets)
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
 - Text alignement in blueprint and other customization (image blend type on cover)

@@ -117,6 +117,29 @@ figcaption a {
   top: 1px;
 }
 
+/* Fixing cards for presentation intro */
+.plans>li:nth-child(2) {
+  transform: scale(1); 
+}
+.plans>li a:hover {
+  transform: scale(1); 
+}
+.plans>li:hover, .plans>li {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+.plans>li {
+  max-width: 400px;
+}
+.plans>li h2 {
+  font-size: 1.2rem;
+}
+.plans>li h1 {
+  color: #44d;
+  font-size: 2.5rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 /* My print */
 @media print {
   @page {
