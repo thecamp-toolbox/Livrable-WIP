@@ -6,7 +6,8 @@ Tested on http://doc.thecamp.fr
 
 ## Structure 
 
-Projects > Project > Slideshow / livrable 
+Programs > Program (client HP) > Slideshow
+Also, possibility to have projects under program. 
 
 ## Elements 
 
@@ -73,7 +74,7 @@ And also, Font Awesome
 
 ## Before going live 
 
-- better 'project' page 
+- better 'program' page 
 - Check on mobile 
 - Make demo presentation (with titles using slide titles)
 
@@ -82,8 +83,8 @@ And also, Font Awesome
 - Make nice little how-to with images of slides 
 - Add slides numbers when printed (pass variable through all snipets)
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
-- Text alignement in blueprint  
-- Better Font Awesome integration
+- Text alignement in blueprint and other customization (image blend type on cover)
+- Better Font Awesome integration (Kirby tag ?)
 - Make 'network' to dropdwon select people 
 - Better 'user' profile that allows for linking (tel info, avatar image, etc.)
 - Better images gallery slide 
@@ -94,14 +95,17 @@ And also, Font Awesome
 - create special user type that only accesses his program and make sure pages are hidden for other users. Also, point users directly to their program when they login through dedicated page.  
 - make better slide loop that automatically goes through slide templates and passes right variables
 - better image management, so you don't have to resize images when you upload them
+- find way to duplicate slideshow from one client to the other 
+- limit number of words here and there to prevent overflowing 
+- auto slideshows (like info pratiques with map, list of spaces, etc.)
 
 ## Templates to add 
 
-- subproject (or change project to program?) 
+- project (under program)
 - logos 
 - creator (person with bio and possibly, dropdown to select from user list) 
-- full page image ? 
+- doc (upload image preview, proper title etc.)
+- full page image / video ? 
 - pricing 
-- project (with link etc. for benchmark) 
 
 

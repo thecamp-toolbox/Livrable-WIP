@@ -8,8 +8,7 @@ language: en
 role: admin
 history:
   - >
-    projets/demo/informations-techniques/cover-slide
-  - projets/demo/informations-techniques/steps-slide
-  - projets/demo/informations-techniques/default-slide
-  - projets/demo/informations-techniques/card-slide
-  - projets/demo/informations-techniques
+    programs/pioneers/intelligence-artificielle
+  - programs/pioneers/mobilite
+  - programs/demo/project-1
+  - programs/demo

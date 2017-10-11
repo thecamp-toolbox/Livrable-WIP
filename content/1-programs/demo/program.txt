@@ -1,4 +1,4 @@
-Title: Démo project
+Title: Démo program
 
 ----
 

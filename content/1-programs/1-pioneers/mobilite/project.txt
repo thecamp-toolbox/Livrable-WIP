@@ -1,0 +1,9 @@
+Title: Mobilité
+
+----
+
+Description: Les autres plateaux se feront avec du CP de 18mm d’épaisseur, il ne s’agira majoritairement que de découpe excepté sur la phase du bas où nous fixerons par la suite les 4 roues, il y aura une défonce de 30mm de diamètre sur 10mm de profondeur. Cette défonce permettra par la suite de fixer les 4 roues.
+
+----
+
+Mysubpagelist: 
