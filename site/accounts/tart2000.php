@@ -8,7 +8,8 @@ language: en
 role: admin
 history:
   - >
-    programs/pioneers/intelligence-artificielle
-  - programs/pioneers/mobilite
-  - programs/demo/project-1
-  - programs/demo
+    programs/demo/informations-techniques/full-page-image-slide
+  - format-dialogue-social/modalites
+  - format-dialogue-social/pistes
+  - format-dialogue-social/marqueurs
+  - format-dialogue-social/dialogue-social

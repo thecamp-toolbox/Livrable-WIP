@@ -27,6 +27,7 @@ To add an image, drag and drop it in the backoffice and then 'call' it with `(im
 - schedule template (timetable) 
 - long list (for participants)
 - chapter slide 
+- full page image (contained)
 
 ## Print
 
@@ -70,12 +71,15 @@ And also, Font Awesome
 - Find a way to limit number of items on portfolio slide (and images) to 8 and distribute on any number of slides (ex. 15 items => 2 slides) (cf. long-list)
 - Download of all documents on project page 
 - Checker player vidéo 
+- add untimed phase in schedule
 
 ## Before going live 
 
 - better 'program' page 
+- pb padding bas mobile 
 - Check on mobile 
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images. 
+- pb h3 cover
 
 ## Future 
 
@@ -98,6 +102,10 @@ And also, Font Awesome
 - find way to duplicate slideshow from one client to the other 
 - limit number of words here and there to prevent overflowing 
 - auto slideshows (like info pratiques with map, list of spaces, etc.)
+- doc upload by users 
+- passer toutes les pages non-slideshow en bootstrap V4 ? 
+- options to change card image width
+- auto publish slides in order of creation 
 
 ## Templates to add 
 
@@ -105,7 +113,6 @@ And also, Font Awesome
 - logos 
 - creator (person with bio and possibly, dropdown to select from user list) 
 - doc (upload image preview, proper title etc.)
-- full page image / video ? 
 - pricing 
 
 

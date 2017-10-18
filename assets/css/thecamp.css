@@ -36,6 +36,9 @@ h3 {
 .bg-primary h2, .bg-gradient-v h2 {
   color: white;
 }
+.contain {
+  background-size: contain;
+}
 
 /* correction table of content background colors */
 .toc {
@@ -60,6 +63,9 @@ figcaption a {
 }
 .column > img {
   margin-bottom: 20px;
+}
+.column ul li {
+  list-style: square;
 }
 .card-50 .flex-content {
   border-top: 2px solid #efefef;

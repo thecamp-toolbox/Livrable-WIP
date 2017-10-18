@@ -1,0 +1,33 @@
+Prevnext: 
+
+----
+
+Title: 2.
+
+----
+
+Description: 
+
+----
+
+Columns: 
+
+- 
+  text: |
+    ###Des pistes de thématiques
+    
+    - Comment le dialogue social peut il venir en soutien de la transformation notamment numérique des entreprises ?
+    - Comment accompagner au mieux les réorganisations à venir ?
+    - La création de nouveaux outils : l’évaluation du personnel au 21ème siècle, le bilan de carrière….
+    - Les nouvelles revendications des collaborateurs et les nouveaux équilibres
+    - L’avenir de la représentation : nouvelles technologies, place des indépendants, millenials….
+    Quel est le futur radical du dialogue social au regard de l’impact des ruptures technologiques et sociétales en cours ?
+- 
+  text: |
+    ###Des acteurs à mobiliser
+    
+    - Echelons local, régional et national, mis en perspective d’expériences internationales
+    - Des représentants des salariés - élus, fédérations, experts…
+    - Des dirigeants – DG, DRH, DRS
+    - Des représentants des pouvoirs publics (Direccte, institutions publiques…)
+    - Des tiers intermédiaires : chercheurs, IRES.…

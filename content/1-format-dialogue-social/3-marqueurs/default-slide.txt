@@ -1,0 +1,28 @@
+Prevnext: 
+
+----
+
+Title: 1.
+
+----
+
+Description: 
+
+----
+
+Columns: 
+
+- 
+  text: |
+    ###Des partis pris
+    
+    - Penser le futur du modèle social pour aller au-delà de l’accompagnement des tensions du présent et permettre la rupture radicale
+    - Décadrer les relations habituelles et offrir une possibilité de renouveler les rapports et les points de vu
+    - Créer des expérimentations plutôt que de tenter de tout résoudre a priori
+- 
+  text: |
+    ###Des marqueurs
+    
+    - Multilatéral : multiculturel, multi-acteurs, multiorganisationnel…, nécessité de développer l’empathie et la compréhension mutuelle
+    - Dépasser les représentations : appréhender la complexité, aller au delà des idées reçues, mettre en perspective, s’acculturer, …
+    - Désorienter les perceptions : se déprogrammer, s’engager dans une expérience qui mobilise dans tout son être – intellectuel, physique, émotionnel et relationnel.

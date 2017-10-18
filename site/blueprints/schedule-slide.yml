@@ -10,6 +10,7 @@ fields:
   starttime: 
     label: Start time 
     type: time 
+    interval: 15
     width: 1/4
   times: 
     label: Schedule 

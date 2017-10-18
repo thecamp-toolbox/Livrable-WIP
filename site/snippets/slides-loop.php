@@ -35,6 +35,9 @@
     } elseif ($s->template() == 'chapter-slide') {
       snippet('chapter-slide', array('s' => $s));
 
+    } elseif ($s->template() == 'full-page-image-slide') {
+      snippet('full-page-image-slide', array('s' => $s));
+
     };
   };
 ?>

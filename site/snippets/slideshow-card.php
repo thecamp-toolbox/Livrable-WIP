@@ -11,16 +11,16 @@
           <strong><?= $prez->children()->count() ?></strong> slides
         </li>
         <li>
-          <svg class="fa-check">
-            <use xlink:href="#fa-check"></use>
+          <svg class="fa-user">
+            <use xlink:href="#fa-user"></use>
           </svg>
-          <strong>Eternal</strong> sunshine
+          Ingrid Kandelman
         </li>
         <li>
-          <svg class="fa-check">
-            <use xlink:href="#fa-check"></use>
+          <svg class="fa-cube">
+            <use xlink:href="#fa-cube"></use>
           </svg>
-          <strong>Ads</strong>
+          <strong>Offre</strong>
         </li>
       </ul>
       <span class="button ghost">Voir 

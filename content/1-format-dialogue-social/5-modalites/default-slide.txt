@@ -1,0 +1,28 @@
+Prevnext: 
+
+----
+
+Title: 3.
+
+----
+
+Description: 
+
+----
+
+Columns: 
+
+- 
+  text: |
+    ###Des modalités envisageables
+    
+    - Tout au long de l’année, programme proposé par thecamp autour d’un observatoire et d’événements réguliers autour du futur du dialogue social
+    - Initiative de partenaires sociaux d’une entité ou d’un secteur sur un sujet précis : imaginer le système d’évaluation au sein de notre entreprise, accompagner la transformation numérique autrement, quel dialogue social face à l’émergence des plateformes….
+- 
+  text: |
+    ###Des livrables
+    
+    - Observatoires des transformations
+    - Propositions d’expérimentations diverses : nouveaux process, outils…. qui pourraient faire l’objet de tests de déploiement avant passage à l’échelle
+    - Cartographie des imaginaires
+    - Nouveaux imaginaires du dialogue social

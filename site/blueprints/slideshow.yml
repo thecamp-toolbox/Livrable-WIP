@@ -13,6 +13,7 @@ pages:
     - images-slide
     - long-list-slide
     - chapter-slide
+    - full-page-image-slide
   hide: true
 
 files:
