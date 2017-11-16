@@ -25,6 +25,10 @@ fields:
         label: Length (minutes)
         type: number
         width: 1/2 
+      people: 
+        label: People 
+        type: text
+        width: 1/2
       location: 
         label: Location 
         type: text 

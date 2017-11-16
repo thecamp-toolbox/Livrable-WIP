@@ -27,6 +27,14 @@ fields:
   title:
     label: Title
     type: title
+  maker: 
+    label: Contact name
+    type: text
+    width: 1/2
+  bu: 
+    label: BU or theme
+    type: text 
+    width: 1/2
   mysubpagelist:
     label: Slideshow
     type:  subpagelist

@@ -3,3 +3,11 @@ Title: Démo slides
 ----
 
 Mysubpagelist: 
+
+----
+
+Maker: A contact name here
+
+----
+
+Bu: BU or theme here

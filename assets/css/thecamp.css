@@ -86,6 +86,24 @@ figcaption a {
 .work li a:hover {
     
 }
+.work-label p, .work li p {
+  margin-right: 0;
+}
+.work-label>p {
+  padding-left: 15px !important;
+}
+p.time {
+  width: 15% !important;
+}
+p.activity {
+  width: 55% !important; 
+}
+p.people {
+  width: 15% !important;
+}
+p.location {
+  width: 15% !important; 
+}
 /* Correction pour mettre des parties de l'agenda moins importantes */
 .work .off {
   color: #c1c1c1;
@@ -106,17 +124,7 @@ figcaption a {
   cursor: pointer;
 }
 
-/* The Overlay sliding NAV */
-.burger {
-  font-size: 40px;
-  cursor: pointer;
-  position: fixed;
-  top: 0px;
-  left: 5px;
-  z-index: 2;
-  color: #28285b;
-}
-
+/* Nav */
 #logo-s {
   position: fixed;
   left: 50px;

@@ -72,6 +72,8 @@ And also, Font Awesome
 - Download of all documents on project page 
 - Checker player vidéo 
 - add untimed phase in schedule
+- page->title on print 
+- icons instead of titles on schedule slide (so it works in any language)
 
 ## Before going live 
 
@@ -106,7 +108,7 @@ And also, Font Awesome
 - auto slideshows (like info pratiques with map, list of spaces, etc.)
 - doc upload by users 
 - pass all pages that aren't Webslides on Bootstrap?
-- options to change card image width 
+- options to change card image width (cf. Webslides options)
 
 ## Templates to add 
 

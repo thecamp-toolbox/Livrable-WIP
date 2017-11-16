@@ -7,7 +7,7 @@ email: tart2000design@gmail.com
 language: en
 role: admin
 history:
-  - programs/demo/test/plif-plaf-plouf
+  - programs/demo/demo-slides
   - format-dialogue-social/modalites
   - format-dialogue-social/pistes
   - format-dialogue-social/marqueurs
