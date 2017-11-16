@@ -75,15 +75,17 @@ And also, Font Awesome
 
 ## Before going live 
 
-- better 'program' page 
-- pb padding bas mobile 
-- Check on mobile 
-- Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images. 
+- better 'program' page  
+- better 'slideshow' card (specifically person's name)
+- Check on mobile (specifically bottom padding)
+- Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images (ex. cover). 
+- weird behavior of slideshow cards on hover 
 - pb h3 cover
 
 ## Future 
 
 - Make nice little how-to with images of slides 
+- Drag & drop reordering of slides on slideshow page 
 - table of content auto 
 - Add slides numbers when printed (pass variable through all snipets)
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
@@ -103,9 +105,8 @@ And also, Font Awesome
 - limit number of words here and there to prevent overflowing 
 - auto slideshows (like info pratiques with map, list of spaces, etc.)
 - doc upload by users 
-- passer toutes les pages non-slideshow en bootstrap V4 ? 
-- options to change card image width
-- auto publish slides in order of creation 
+- pass all pages that aren't Webslides on Bootstrap?
+- options to change card image width 
 
 ## Templates to add 
 

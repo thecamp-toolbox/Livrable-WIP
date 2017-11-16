@@ -1,0 +1,25 @@
+Title: Comex Accenture
+
+----
+
+Client: Accenture
+
+----
+
+Offre: COMEX
+
+----
+
+Startdate: 2017-10-18
+
+----
+
+Enddate: 2017-10-20
+
+----
+
+Mysubpagelist: 
+
+----
+
+Porjectlist: 

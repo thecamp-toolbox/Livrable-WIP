@@ -2,21 +2,22 @@ Prevnext:
 
 ----
 
-Title: Les ambitions
+Title: 1.
 
 ----
 
-Img: WHYHfmBuCB4
+Img: YVgOh8w1R4s
 
 ----
 
-Slideimg: 
+Slideimg: mars.jpg
 
 ----
 
 Description: 
 
-- Le système du dialogue social doit évoluer pour intégrer de nouveaux enjeux pour lesquels il n’a pas été construit : de l’engagement par la force de travail au sein d’une unité de travail à l’engagement par la créativité dans une structure sociale complexe 
-- Les évolutions du modèle social à porter par les politiques publiques doivent être construites selon de nouvelles modalités 
-- L’accompagnement des transformations à venir - dont l’ampleur en termes social sera majeure -nécessite un dialogue social dont le cadre a été renouvelé et adapté 
-- De nouveaux modèles d’emploi et de rapport au travail imposent de définir les contours du dialogue social du futur ?
+###Les ambitions
+- Faire évoluer le système du dialogue social pour intégrer de nouveaux enjeux pour lesquels il n’a pas été construit : réseaux sociaux, modèle de plateforme... 
+- Imaginer un cadre renouvelé et adapté du dialogue social pour les transformations des organisations à venir - dont l’ampleur en termes social sera majeure -  
+- Accompagner la construction des évolutions du modèle social portées par les politiques publiques  
+- Définir les contours du dialogue social du futur pour de nouveaux modèles d’emploi et de rapport au travail

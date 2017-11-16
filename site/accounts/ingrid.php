@@ -9,7 +9,8 @@ password: >
 language: fr
 role: editor
 history:
-  - format-dialogue-social/pistes
-  - format-dialogue-social/les-ambitions
   - format-dialogue-social/modalites
-  - format-dialogue-social/dialogue-social
+  - format-dialogue-social/les-ambitions
+  - format-dialogue-social/marqueurs
+  - format-dialogue-social/pistes
+  - programs/comex-accenture/infos-pratiques/a-retenir

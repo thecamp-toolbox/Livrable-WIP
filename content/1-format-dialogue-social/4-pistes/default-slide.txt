@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: 2.
+Title: 3.
 
 ----
 
@@ -16,12 +16,10 @@ Columns:
   text: |
     ###Des pistes de thématiques
     
-    - Comment le dialogue social peut il venir en soutien de la transformation notamment numérique des entreprises ?
-    - Comment accompagner au mieux les réorganisations à venir ?
-    - La création de nouveaux outils : l’évaluation du personnel au 21ème siècle, le bilan de carrière….
-    - Les nouvelles revendications des collaborateurs et les nouveaux équilibres
-    - L’avenir de la représentation : nouvelles technologies, place des indépendants, millenials….
-    Quel est le futur radical du dialogue social au regard de l’impact des ruptures technologiques et sociétales en cours ?
+    - Quel dialogue social pour accompagner la transformation - posture, culture, organisation, métiers, compétences - des entreprises ?
+    - Comment accompagner les nouvelles revendications sociales (portabilité d'une note sur les réseaux sociaux, ...) et les nouveaux outils à inventer pour accompagner les collaborateurs au 21ème siècle : évaluation, bilan de carrière….
+    - Quel rôle du dialogue social dans les nouvelles organisations du travail : l'entreprise horizontale, l'entreprise sans salarié ?
+    - Quel est le futur du dialogue social au regard de l’impact radical des ruptures technologiques et sociétales en cours ?
 - 
   text: |
     ###Des acteurs à mobiliser

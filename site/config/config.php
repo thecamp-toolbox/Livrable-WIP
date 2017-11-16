@@ -28,3 +28,5 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('autopublish.templates', array('card-slide', 'chapter-slide', 'cover-slide', 'data-slide', 'default-slide', 'full-page-image-slide', 'images-slide', 'long-list-slide', 'portfolio-slide', 'quote-slide', 'schedule-slide', 'steps-slide'));

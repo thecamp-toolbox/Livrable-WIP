@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Mercredi 18 octobre
+
+----
+
+Starttime: 19:30
+
+----
+
+Times: 
+
+- 
+  activity: Accueil
+  dur: "60"
+  location: "RDV à l'Olivier sous la canopée"
+  format: ok
+- 
+  activity: Cocktail dinatoire
+  dur: "60"
+  location: Etage du restaurant
+  format: ok

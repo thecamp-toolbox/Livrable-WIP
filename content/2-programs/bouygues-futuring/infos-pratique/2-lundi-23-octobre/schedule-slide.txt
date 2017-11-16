@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Lundi 23 octobre
+
+----
+
+Starttime: 14:00
+
+----
+
+Times: 
+
+- 
+  activity: Accueil
+  dur: "90"
+  location: Olivier
+  format: ok
+- 
+  activity: Brainstorm sur la ville
+  dur: "35"
+  location: Studio 3
+  format: ok

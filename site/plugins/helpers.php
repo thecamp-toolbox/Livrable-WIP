@@ -14,9 +14,18 @@ function makeImage($item) {
 		$image = $item->images()->first()->url();
 	} else {
 		// Une image par défaut 
-		$image = $site->url().'/assets/images/thecamp1.jpg';
+		$image = 'http://doc.thecamp.fr/assets/images/thecamp1.jpg';
 	}
 	return $image;
+}
+
+function goToSlide($page) {
+	if ($page->num() != '') {
+		$url = $page->parent()->url().'/#slide='.$page->num();
+		go($url);
+	} else {
+		go($page->parent()->url());
+	}
 }
 
 ?>

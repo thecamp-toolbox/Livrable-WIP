@@ -1,0 +1,34 @@
+Prevnext: 
+
+----
+
+Title: Planning J2
+
+----
+
+Starttime: 08:00
+
+----
+
+Times: 
+
+- 
+  activity: 'Breakfast - Enrolled Trainees'
+  dur: "60"
+  location: Le Resto
+  format: grey
+- 
+  activity: 'Quick presentation of points of contact  @ TheCamp - Enrolled Trainees'
+  dur: "90"
+  location: 'Studio 1*'
+  format: ok
+- 
+  activity: Break Gourmand
+  dur: "15"
+  location: 'Le Bar*'
+  format: grey
+- 
+  activity: "Training 'Compliance' (Part 1) - Enrolled Trainees"
+  dur: "60"
+  location: 'Studio 1* & YCE*'
+  format: ok

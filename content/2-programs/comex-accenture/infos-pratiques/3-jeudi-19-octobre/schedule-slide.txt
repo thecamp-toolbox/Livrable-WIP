@@ -1,0 +1,54 @@
+Prevnext: 
+
+----
+
+Title: Jeudi 19 octobre
+
+----
+
+Starttime: 07:30
+
+----
+
+Times: 
+
+- 
+  activity: Meditation – si vous en avez envie
+  dur: "90"
+  location: Popup house
+  format: ok
+- 
+  activity: "Balade autour de l'agilité"
+  dur: "240"
+  location: "RDV à l'étage de l'accélérateur 2"
+  format: ok
+- 
+  activity: Déjeuner
+  dur: "60"
+  location: Bar lounge
+  format: ok
+- 
+  activity: Temps libre
+  dur: "60"
+  location: -
+  format: grey
+- 
+  activity: Réunion de Comex
+  dur: "210"
+  location: "Etage de l'accélérateur 2"
+  format: ok
+- 
+  activity: Atelier drône
+  dur: "60"
+  location: "RDV à l'olivier"
+  format: ok
+- 
+  activity: Temps libre
+  dur: "60"
+  location: -
+  format: grey
+- 
+  activity: Cocktail dinatoire
+  dur: "60"
+  location: Etage du restaurant
+  format: ok

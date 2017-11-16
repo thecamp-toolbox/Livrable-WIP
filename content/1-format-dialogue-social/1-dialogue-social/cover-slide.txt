@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: Programme dédié à la transformation du dialogue social
+Title: Le futur du dialogue social
 
 ----
 
@@ -14,4 +14,7 @@ Slideimg:
 
 ----
 
-Description: ##2018 : Et si on inventait les expérimentations du dialogue social de demain ?
+Description: 
+
+## Programme 2018 
+> Et si on inventait les expérimentations du dialogue social de demain ?

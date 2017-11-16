@@ -1,0 +1,19 @@
+Prevnext: 
+
+----
+
+Title: Planning
+
+----
+
+Starttime: 19:00
+
+----
+
+Times: 
+
+- 
+  activity: Dinner
+  dur: "120"
+  location: 'Le Resto*'
+  format: grey

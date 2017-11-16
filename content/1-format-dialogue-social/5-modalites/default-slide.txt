@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: 3.
+Title: 4.
 
 ----
 
@@ -16,13 +16,14 @@ Columns:
   text: |
     ###Des modalités envisageables
     
-    - Tout au long de l’année, programme proposé par thecamp autour d’un observatoire et d’événements réguliers autour du futur du dialogue social
+    - Tout au long de l’année, programme proposé par thecamp autour d’un observatoire et d’événements réguliers autour du futur du dialogue social, notamment un atelier de Design Fiction
     - Initiative de partenaires sociaux d’une entité ou d’un secteur sur un sujet précis : imaginer le système d’évaluation au sein de notre entreprise, accompagner la transformation numérique autrement, quel dialogue social face à l’émergence des plateformes….
+    - Sollicitation par un acteur public pour accompagner un projet d'innovation réglementaire
+    - Formations et inspirations sur des sujets thématiques
 - 
   text: |
-    ###Des livrables
+    ###Des exemples de livrables
     
-    - Observatoires des transformations
-    - Propositions d’expérimentations diverses : nouveaux process, outils…. qui pourraient faire l’objet de tests de déploiement avant passage à l’échelle
-    - Cartographie des imaginaires
     - Nouveaux imaginaires du dialogue social
+    - Note d'analyses et de prospectives
+    - Propositions d’expérimentations diverses 

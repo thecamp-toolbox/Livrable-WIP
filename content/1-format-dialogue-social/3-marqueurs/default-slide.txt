@@ -2,7 +2,7 @@ Prevnext:
 
 ----
 
-Title: 1.
+Title: 2.
 
 ----
 
@@ -14,15 +14,16 @@ Columns:
 
 - 
   text: |
-    ###Des partis pris
-    
-    - Penser le futur du modèle social pour aller au-delà de l’accompagnement des tensions du présent et permettre la rupture radicale
-    - Décadrer les relations habituelles et offrir une possibilité de renouveler les rapports et les points de vu
-    - Créer des expérimentations plutôt que de tenter de tout résoudre a priori
+    ###Des constats
+    - Les cadres existants ne favorisent pas un dialogue constructif sur l’avenir et la transformation des organisations
+    - Les représentations paralysent aujourd’hui l’innovation dans le dialogue social
+    - Il n’existe pas d'espace - lieu et temps - pour la prospective et pour penser le futur du dialogue social
+    - Et pourtant, tous les acteurs ont besoin d'un système de représentation légitime et fonctionnel
 - 
   text: |
-    ###Des marqueurs
+    ###Des partis pris
     
-    - Multilatéral : multiculturel, multi-acteurs, multiorganisationnel…, nécessité de développer l’empathie et la compréhension mutuelle
-    - Dépasser les représentations : appréhender la complexité, aller au delà des idées reçues, mettre en perspective, s’acculturer, …
-    - Désorienter les perceptions : se déprogrammer, s’engager dans une expérience qui mobilise dans tout son être – intellectuel, physique, émotionnel et relationnel.
+    - PERSPECTIVE - Dépasser les représentations : multilatéral, multiculturel, multi-acteurs, multi-organisationnel
+    - DECADRER - Offrir une possibilité de comprendre un autre point de vue et de renouveler les rapports
+    - FUTUR - Aller au-delà de l'accompagnement des tensions du présent en pensant le futur du modèle social, ouvrant la voie à des ruptures plus radicales
+    - EXPERIMENTER - Imaginer des pistes à tester plutôt que de tenter de tout résoudre globalement et a priori

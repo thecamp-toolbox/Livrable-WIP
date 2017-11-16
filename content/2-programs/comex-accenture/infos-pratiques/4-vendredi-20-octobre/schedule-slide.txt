@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: Vendredi 20 octobre
+
+----
+
+Starttime: 07:30
+
+----
+
+Times: 
+
+- 
+  activity: 'Yoga - si vous en avez envie'
+  dur: "90"
+  location: Popup house
+  format: ok
+- 
+  activity: Réunion de Comex
+  dur: "210"
+  location: "Etage de l'accélérateur 2"
+  format: ok
+- 
+  activity: 'Déjeuner - plateaux repas'
+  dur: "90"
+  location: "Etage de l'accélérateur 2"
+  format: ok
