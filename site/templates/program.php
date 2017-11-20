@@ -47,12 +47,7 @@
 					<?php if ($page->hasDocuments()) : ?>
 						<h3>Téléchargements</h3>
 						<?php foreach ($page->documents() as $doc) : ?>
-							<a href="<?= $doc->url() ?>" target="_blank" download>
-								<?= $doc->name() ?> (<?= $doc->niceSize() ?>)
-								<svg class="fa-download">
-							        <use xlink:href="#fa-download"></use>
-							    </svg>
-							</a>
+							<?php snippet('doc-card', array('doc' => $doc)) ?>
 						<?php endforeach ?>
 					<?php endif ?>
 				</div>

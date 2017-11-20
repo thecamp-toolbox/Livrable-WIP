@@ -39,6 +39,9 @@ h3 {
 .contain {
   background-size: contain;
 }
+.button {
+  margin-bottom: 15px;
+}
 
 /* correction table of content background colors */
 .toc {
@@ -129,6 +132,15 @@ p.location {
   position: fixed;
   left: 50px;
   top: 1px;
+}
+.burger {
+  font-size: 40px;
+  cursor: pointer;
+  position: fixed;
+  top: 0px;
+  left: 5px;
+  z-index: 2;
+  color: #28285b;
 }
 
 /* Fixing cards for presentation intro */

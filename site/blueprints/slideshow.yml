@@ -17,11 +17,9 @@ pages:
   hide: true
 
 files:
-  sortable: false
-  max: null
+  sortable: true
   hide: false
   sanitize: true
-  fields: null
 
 fields:
   title:

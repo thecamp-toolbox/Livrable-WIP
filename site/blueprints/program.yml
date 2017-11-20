@@ -4,7 +4,13 @@ pages:
     - slideshow 
     - project 
   hide: true
+
 files: true
+  fields:
+    readablename:
+      label: Readable name
+      type: text
+
 fields:
   title:
     label: Title

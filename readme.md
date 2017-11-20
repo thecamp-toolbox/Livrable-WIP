@@ -78,7 +78,7 @@ And also, Font Awesome
 ## Before going live 
 
 - better 'program' page  
-- better 'slideshow' card (specifically person's name)
+- better 'slideshow' card 
 - Check on mobile (specifically bottom padding)
 - Ajouter des if () partout pour que ça fonctionne même quand certains champs sont absents. Surtout les images (ex. cover). 
 - weird behavior of slideshow cards on hover 
@@ -86,21 +86,22 @@ And also, Font Awesome
 
 ## Future 
 
+- Make 'network' to dropdwon select people 
+- Add 'user select' dropdpwn that adds a 'your contact' slide at the end (with auto bio)
 - Make nice little how-to with images of slides 
 - Drag & drop reordering of slides on slideshow page 
 - table of content auto 
-- Add slides numbers when printed (pass variable through all snipets)
+- Add slides numbers when printed (pass variable through all snipets?)
 - Call slideshows in slideshows (ex. thecamp presentation in livrable)
 - Text alignement in blueprint and other customization (image blend type on cover)
-- Better Font Awesome integration (Kirby tag ?)
-- Make 'network' to dropdwon select people 
+- Better Font Awesome integration (Kirby tag?)
 - Better 'user' profile that allows for linking (tel info, avatar image, etc.)
 - Better images gallery slide 
 - slide thecamp map (?) 
 - push notifications to the client when somthing is added to their page   
 - fullscreen video goes weird on print to PDF 
 - add page snippet next to page name in backoffice list 
-- create special user type that only accesses his program and make sure pages are hidden for other users. Also, point users directly to their program when they login through dedicated page.  
+- create special user type that only accesses his program and make sure pages are hidden for other users. Also, point users directly to their program when they login through dedicated page. 
 - make better slide loop that automatically goes through slide templates and passes right variables
 - better image management, so you don't have to resize images when you upload them
 - find way to duplicate slideshow from one client to the other 
@@ -109,13 +110,13 @@ And also, Font Awesome
 - doc upload by users 
 - pass all pages that aren't Webslides on Bootstrap?
 - options to change card image width (cf. Webslides options)
+- Being able to load participants straight from excel file 
 
 ## Templates to add 
 
 - project (under program)
-- logos 
+- logos client 
 - creator (person with bio and possibly, dropdown to select from user list) 
-- doc (upload image preview, proper title etc.)
 - pricing 
 
 
